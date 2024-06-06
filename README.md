@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 🥇
 
-meu nome é Márcio Eduardo Bispo Sorio
+meu nome é Márcio Eduardo Bispo Sório
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript.
